@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace WorkWithIdentity.Models
 {
-    public class UserRolesViewModel
+    public class UserRolesViewModel  
     {
         public string UserId { get; set; }
         public string FirstName { get; set; }

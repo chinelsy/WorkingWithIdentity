@@ -408,3 +408,4 @@ C:\Users\hp\source\repos\ASP.NET TASK\WorkWithIdentity\WorkWithIdentity\obj\Debu
 C:\Users\hp\source\repos\ASP.NET TASK\WorkWithIdentity\WorkWithIdentity\obj\Debug\netcoreapp3.1\WorkWithIdentity.dll
 C:\Users\hp\source\repos\ASP.NET TASK\WorkWithIdentity\WorkWithIdentity\obj\Debug\netcoreapp3.1\WorkWithIdentity.pdb
 C:\Users\hp\source\repos\ASP.NET TASK\WorkWithIdentity\WorkWithIdentity\obj\Debug\netcoreapp3.1\WorkWithIdentity.genruntimeconfig.cache
+C:\Users\hp\source\repos\ASP.NET TASK\WorkWithIdentity\WorkWithIdentity\obj\Debug\netcoreapp3.1\WorkWithIdentity.GeneratedMSBuildEditorConfig.editorconfig
